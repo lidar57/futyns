@@ -2,18 +2,22 @@
     border-left: 3px solid black;
     border-right: 3px solid black;
     border-top: 3px solid black;
+    border-bottom: 3px solid rgb(124, 55, 55);
+    background-color: rgb(124, 55, 55);
 }
 
 .in{
     border-right: 3px solid black;
     border-top: 3px solid black;
     border-bottom: 3px solid black;
+    background-color: rgb(124, 55, 55);
 }
 
 table{
     margin-top: 10px;
     border: 3px solid black;
     border-collapse:collapse;
+    background-color: rgb(240, 240, 172);
 }
 
 img{
