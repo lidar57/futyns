@@ -26,6 +26,7 @@ img{
 }
 
 .green{
+    border-radius: 50px;
     color: rgb(0, 204, 0);
     border: 2px dashed rgb(0, 204, 0);
     text-align: center; 
