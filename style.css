@@ -13,11 +13,11 @@
     background-color: rgb(124, 55, 55);
 }
 
-table{
+main table{
     margin-top: 10px;
     border: 3px solid black;
     border-collapse:collapse;
-    background-color: rgb(240, 240, 172);
+    background-color: rgb(240, 230, 141);
 }
 
 img{
@@ -29,4 +29,18 @@ img{
     color: rgb(0, 204, 0);
     border: 2px dashed rgb(0, 204, 0);
     text-align: center; 
+}
+h1, p, a{
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+    border: 3px dotted greenyellow;
+    margin: 50px 150px 0px ;
+    text-align:center;
+    padding: 5px;
+    border-radius: 50px;
+    background-color: green;
+    color: yellow;
 }
