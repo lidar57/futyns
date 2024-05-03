@@ -26,6 +26,7 @@ img{
 }
 
 .green{
+    background-color: rgba(0, 255, 0, 0.301);
     border-radius: 50px;
     color: rgb(0, 204, 0);
     border: 2px dashed rgb(0, 204, 0);
